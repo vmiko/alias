@@ -1,10 +1,10 @@
-# Préparation d'un poste de dev pour Linux
+# Alias linux
 
-Ce script à pour vocation à installer et préparer une distribution Linux comme poste de développement.
+Ce script à pour vocation à outiller et installer des alias dans une distribution linux.
 
 ## Installation
 
-Ce script est à exécuter avec l'utilisateur courant du poste de dev.
+Ce script est à exécuter avec l'utilisateur courant de la distribution.
 
 ```console
 chmod +x setup.sh
