@@ -20,7 +20,7 @@ echo "Add a bashrc alias to reload bashrc files"
 echo "alias bashrc='chmod +x ~/.bashrc.d/*.bashrc; source ~/.bashrc'" > ~/.bashrc.d/bashrc.bashrc
 echo "alias brc='bashrc'" >> ~/.bashrc.d/bashrc.bashrc
 
-echo "Grant permissions to all .babashrc files in .bashrc.d directory"
+echo "Grant permissions to all .bashrc files in .bashrc.d directory"
 chmod +x ~/.bashrc.d/*.bashrc
 
 echo "Done !"
